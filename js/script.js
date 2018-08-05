@@ -22,7 +22,7 @@ window.addEventListener('DOMContentLoaded', function() {
 	        clearTimeout(timer);
 	        timer = setTimeout(logout, 60000);
 	    }
-	};
+	}; 
 
 
 	let myWorks = document.querySelector('.my-works'),
